@@ -6,3 +6,5 @@ class MyDroneEval(MyDroneRandom):
 
 
 print("hello worldd")
+
+print("test")
